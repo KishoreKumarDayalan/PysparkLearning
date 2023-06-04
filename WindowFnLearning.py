@@ -1,3 +1,8 @@
+#######################
+# Author: Kishore Kumar Dayalan
+# Release Date: 6/4/2023
+# This script is useful in understanding the window concept
+######################
 from pyspark.sql import SparkSession
 from pyspark import SparkContext
 import os 
